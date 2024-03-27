@@ -4,6 +4,7 @@
 
 ## 📂 Folder structure
 ```
+.
 ├─ Assets
 │  ├─ !src
 │  │  ├─ Art
