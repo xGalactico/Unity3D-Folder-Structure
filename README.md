@@ -11,12 +11,9 @@
 │  │  │  ├─ 2DAnimations
 │  │  │  │  ├─ Animators
 │  │  │  │  ├─ Clips
-│  │  │  └─
 │  │  │  ├─ 3DAnimations
 │  │  │  │  ├─ Animators
 │  │  │  │  ├─ Clips
-│  │  │  └─
-│  │  └─
 │  │  ├─ Materials
 │  │  ├─ Models
 │  │  ├─ Sprites
@@ -24,21 +21,17 @@
 │  ├─ Code
 │  │  ├─ Scripts
 │  │  ├─ Shaders
-│  └─
 │  ├─ Data
 │  ├─ Level
 │  │  ├─ Prefabs
 │  │  ├─ Scene
 │  │  │  ├─ Level
 │  │  │  ├─ Others
-│  │  └─
 │  │  ├─ UI
-│  └─
 │  ├─ Media
 │  │  ├─ Audio
 │  |  ├─ Video
 │  └─
-│  └─ # end !src
 │  ├─ Misc
 │  ├─ Editor
 │  ├─ Resources
@@ -47,7 +40,6 @@
 │  │  ├─ Art
 │  │  ├─ Media
 │  │  ├─ Scripts
-│  └─
 └─
 ```
 
