@@ -44,4 +44,4 @@
 ```
 
 ## 😄 I hope this helps
-I hope this helps you organize your project.
+I hope this helps you organize your projects in Unity.
